@@ -1,0 +1,64 @@
+2022-01-30 20:32:45,691 [main] INFO ebanking - URL is opened
+2022-01-30 20:32:45,963 [main] INFO ebanking - Entered username
+2022-01-30 20:32:46,159 [main] INFO ebanking - Entered password
+2022-01-30 20:32:47,796 [main] INFO ebanking - Login test passed
+2022-01-31 09:49:08,411 [main] INFO ebanking - URL is opened
+2022-01-31 09:49:08,680 [main] INFO ebanking - Entered username
+2022-01-31 09:49:08,892 [main] INFO ebanking - Entered password
+2022-01-31 09:49:10,464 [main] INFO ebanking - Login test passed
+2022-01-31 10:09:59,707 [main] INFO ebanking - User name is provided
+2022-01-31 10:10:00,089 [main] INFO ebanking - Passsword is provided
+2022-01-31 10:10:04,997 [main] INFO ebanking - providing customer details....
+2022-01-31 10:10:18,271 [main] INFO ebanking - validation started....
+2022-01-31 10:10:18,303 [main] INFO ebanking - test case failed....
+2022-01-31 10:10:32,796 [main] INFO ebanking - URL is opened
+2022-01-31 10:10:32,982 [main] INFO ebanking - Entered username
+2022-01-31 10:10:33,117 [main] INFO ebanking - Entered password
+2022-01-31 10:10:34,711 [main] INFO ebanking - Login test passed
+2022-01-31 10:18:59,069 [main] INFO ebanking - URL is opened
+2022-01-31 10:18:59,595 [main] INFO ebanking - Entered username
+2022-01-31 10:18:59,765 [main] INFO ebanking - Entered password
+2022-01-31 10:19:01,325 [main] INFO ebanking - Login test passed
+2022-01-31 10:24:47,119 [main] INFO ebanking - user name provided
+2022-01-31 10:24:47,309 [main] INFO ebanking - password provided
+2022-01-31 10:24:54,279 [main] INFO ebanking - user name provided
+2022-01-31 10:24:54,392 [main] INFO ebanking - password provided
+2022-01-31 10:25:00,812 [main] INFO ebanking - user name provided
+2022-01-31 10:25:00,931 [main] INFO ebanking - password provided
+2022-01-31 10:25:06,649 [main] INFO ebanking - user name provided
+2022-01-31 10:25:07,009 [main] INFO ebanking - password provided
+2022-01-31 10:25:14,056 [main] INFO ebanking - user name provided
+2022-01-31 10:25:14,335 [main] INFO ebanking - password provided
+2022-01-31 10:25:32,436 [main] INFO ebanking - URL is opened
+2022-01-31 10:25:32,643 [main] INFO ebanking - Entered username
+2022-01-31 10:25:32,839 [main] INFO ebanking - Entered password
+2022-01-31 10:25:34,866 [main] INFO ebanking - Login test passed
+2022-01-31 10:29:05,337 [main] INFO ebanking - URL is opened
+2022-01-31 10:29:05,596 [main] INFO ebanking - Entered username
+2022-01-31 10:29:05,823 [main] INFO ebanking - Entered password
+2022-01-31 10:29:07,379 [main] INFO ebanking - Login test passed
+2022-01-31 10:29:22,353 [main] INFO ebanking - user name provided
+2022-01-31 10:29:22,498 [main] INFO ebanking - password provided
+2022-01-31 10:29:29,179 [main] INFO ebanking - user name provided
+2022-01-31 10:29:29,280 [main] INFO ebanking - password provided
+2022-01-31 10:29:35,763 [main] INFO ebanking - user name provided
+2022-01-31 10:29:35,886 [main] INFO ebanking - password provided
+2022-01-31 10:29:42,566 [main] INFO ebanking - user name provided
+2022-01-31 10:29:42,790 [main] INFO ebanking - password provided
+2022-01-31 10:29:49,628 [main] INFO ebanking - user name provided
+2022-01-31 10:29:49,855 [main] INFO ebanking - password provided
+2022-01-31 10:30:10,710 [main] INFO ebanking - User name is provided
+2022-01-31 10:30:10,855 [main] INFO ebanking - Passsword is provided
+2022-01-31 10:30:15,586 [main] INFO ebanking - providing customer details....
+2022-01-31 10:30:28,709 [main] INFO ebanking - validation started....
+2022-01-31 10:30:28,726 [main] INFO ebanking - test case failed....
+2022-01-31 20:46:45,545 [main] INFO ebanking - URL is opened
+2022-01-31 20:46:46,068 [main] INFO ebanking - Entered username
+2022-01-31 20:46:46,212 [main] INFO ebanking - Entered password
+2022-01-31 20:46:51,665 [main] INFO ebanking - Login test passed
+2022-01-31 20:47:28,079 [main] INFO ebanking - user name provided
+2022-01-31 20:47:28,227 [main] INFO ebanking - password provided
+2022-01-31 20:47:35,649 [main] INFO ebanking - user name provided
+2022-01-31 20:47:36,143 [main] INFO ebanking - password provided
+2022-01-31 20:48:39,643 [main] INFO ebanking - User name is provided
+2022-01-31 20:48:39,773 [main] INFO ebanking - Passsword is provided
